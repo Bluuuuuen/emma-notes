@@ -5,6 +5,7 @@ category:
 tag:
   - Cantonese
   - 舶来词
+excerpt: <p>梳理英语中来自粤语的舶来词.</p>
 ---
 
 # Cantonese--English：英语中汉语舶来词对照
