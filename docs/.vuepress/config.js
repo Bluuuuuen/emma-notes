@@ -5,7 +5,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
   lang: 'en-US',
-
+  base: '/emma-notes/',
   title: 'Emma\'s English Notes',
   description: '我的英语自留地',
 
