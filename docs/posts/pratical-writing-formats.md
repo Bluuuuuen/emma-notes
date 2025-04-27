@@ -10,4 +10,4 @@ excerpt: <p>实用写作格式大全</p>
 
 # ✍ Practical Writing Formats | 实用写作格式大全
 
-<iframe src="/practical_writing.pdf" width="100%" height="800px" style="border: none;"></iframe>
+<iframe src="/emma-notes/practical_writing.pdf" width="100%" height="800px" style="border: none;"></iframe>

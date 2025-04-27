@@ -1,46 +1,49 @@
 # Get Started
 
-This is a normal page, which contains VuePress basics.
+Welcome, Emma! This is your guide to start learning English in a fun and effective way.
 
-## Pages
+## Goals
 
-You can add markdown files in your vuepress directory, every markdown file will be converted to a page in your site.
+Learning English will help you communicate, travel, study, and explore new ideas.  
+Start simple, and step by step you will grow stronger!
 
-See [routing][] for more details.
+Here’s what you’ll focus on:
 
-## Content
+- Listening: Understanding English in daily life
+- Speaking: Expressing yourself with confidence
+- Reading: Enjoying stories, books, and articles
+- Writing: Sharing your own ideas clearly
 
-Every markdown file [will be rendered to HTML, then converted to a Vue SFC][content].
+## How to Start
 
-VuePress support basic markdown syntax and [some extensions][synatex-extensions], you can also [use Vue features][vue-feature] in it.
+You can begin with:
 
-## Configuration
+- **Basic words**: colors, numbers, everyday things
+- **Simple sentences**: greetings, self-introduction, asking questions
+- **Songs and stories**: fun ways to get used to the sounds of English
 
-VuePress use a `.vuepress/config.js`(or .ts) file as [site configuration][config], you can use it to config your site.
+Use your voice! Try speaking out loud even when you are learning new words.
 
-For [client side configuration][client-config], you can create `.vuepress/client.js`(or .ts).
+## Tools and Tips
 
-Meanwhile, you can also add configuration per page with [frontmatter][].
+Here are some helpful ideas:
 
-## Layouts and customization
+- Watch English cartoons or short videos
+- Listen to English songs you like
+- Read simple English books (with pictures)
+- Keep a small notebook for new words
+- Practice a little bit every day
 
-Here are common configuration controlling layout of `@vuepress/theme-default`:
+Small steps every day will make a big difference!
 
-- [navbar][]
-- [sidebar][]
+## Stay Excited
 
-Check [default theme docs][default-theme] for full reference.
+Mistakes are part of learning!  
+The most important thing is: **have fun** and **keep trying**.  
+Every word you learn is a new superpower for you!
 
-You can [add extra style][style] with `.vuepress/styles/index.scss` file.
+We’re excited to see your progress, Emma. Let’s start the journey!
 
-[routing]: https://vuejs.press/guide/page.html#routing
-[content]: https://vuejs.press/guide/page.html#content
-[synatex-extensions]: https://vuejs.press/guide/markdown.html#syntax-extensions
-[vue-feature]: https://vuejs.press/guide/markdown.html#using-vue-in-markdown
-[config]: https://vuejs.press/guide/configuration.html#client-config-file
-[client-config]: https://vuejs.press/guide/configuration.html#client-config-file
-[frontmatter]: https://vuejs.press/guide/page.html#frontmatter
-[navbar]: https://vuejs.press/reference/default-theme/config.html#navbar
-[sidebar]: https://vuejs.press/reference/default-theme/config.html#sidebar
-[default-theme]: https://vuejs.press/reference/default-theme/
-[style]: https://vuejs.press/reference/default-theme/styles.html#style-file
+---
+
+*(This page is built with VuePress to make learning even more enjoyable!)*
