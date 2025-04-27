@@ -38,4 +38,4 @@ Let's make English fun and part of our life! 🎉
 
 想了解更多？点这里 👉 [About Emma][default-theme-home]
 
-[default-theme-home]: /about.html
+[default-theme-home]: /emma-notes/about.html
