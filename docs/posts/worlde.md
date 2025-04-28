@@ -38,4 +38,4 @@ ___
 > 极简查词器
 <div style="transform: scale(0.8); transform-origin: 0 0;">
     <iframe src="https://wordle-2qj.pages.dev/dict/" width="100%" height="600px" style="border: none;"></iframe>
-</dib>
+</div>
