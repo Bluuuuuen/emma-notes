@@ -9,7 +9,7 @@ tag:
   - 老友记
 poster:
   - emma-notes/Friends.jpg
-excerpt: <p>Friends: "跨越十年的六人友情童话，纽约公寓里的笑声与泪水"</p>
+excerpt: <p>Friends："跨越十年的六人友情童话，纽约公寓里的笑声与泪水"</p>
 ---
 
 # 🤝 老友记
