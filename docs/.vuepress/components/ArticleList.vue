@@ -176,7 +176,12 @@ const scrollRight = () => {
   overflow-x: auto;
   scroll-snap-type: x mandatory;
   -webkit-overflow-scrolling: touch; /* For smooth scrolling on iOS */
-  padding-bottom: 1rem; /* To accommodate potential scrollbar */
+  padding-bottom: 1rem;
+  scrollbar-width: none; /* remove scroll bar for Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+}
+.movie-carousel::-webkit-scrollbar {
+  display: none; /* Chrome, Safari and Opera */
 }
 
 .movie-poster-item {
