@@ -46,6 +46,7 @@ export default defineUserConfig({
         date: frontmatter.date || null,
         category: frontmatter.category || [],
         tag: frontmatter.tag || [],
+        cover: frontmatter.cover || [], // added to access posters
         excerpt:
           // Support manually set excerpt through frontmatter
           typeof frontmatter.excerpt === 'string'

@@ -40,7 +40,7 @@ const scrollRight = () => {
             class="movie-poster-item"
             @click="$router.push(path)"
           >
-            <img v-if="info.cover" :src="info.cover" :alt="info.title" class="movie-poster" />
+            <img v-if="info.cover && info.cover[0]" :src="info.cover[0]" :alt="info.title" class="movie-poster" />
             <div v-else class="no-poster">No Poster Available</div>
             <header class="title">{{ info.title }}</header>
           </div>

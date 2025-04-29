@@ -7,7 +7,8 @@ tag:
   - 美剧
   - 史诗
   - 罗马
-cover: emma-notes/posters/Rome.jpg
+cover: 
+  - emma-notes/posters/Rome.jpg
 excerpt: <p>Rome："血与蜜交织的永恒之城，权力游戏下的爱欲与背叛"</p>
 ---
 
