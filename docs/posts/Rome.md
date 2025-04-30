@@ -11,7 +11,7 @@ cover: emma-notes/posters/Rome.jpg
 excerpt: <p>Rome："血与蜜交织的永恒之城，权力游戏下的爱欲与背叛"</p>
 ---
 
-# 🛡 Rome 罗马
+# 🔰 Rome 罗马
 ---
 
 ## 推荐理由

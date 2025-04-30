@@ -2,6 +2,7 @@ import { blogPlugin } from '@vuepress/plugin-blog'
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
+import localGA from './local-ga-plugin'
 
 export default defineUserConfig({
   lang: 'en-US',
@@ -135,6 +136,9 @@ export default defineUserConfig({
         },
       ],
       hotReload: true,
+    }),
+    localGA({
+      id: 'G-JCQ3D0V7TH'
     }),
   ],
 
