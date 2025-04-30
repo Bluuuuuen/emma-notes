@@ -1,6 +1,6 @@
 ---
 home: true
-title: Emma's English Notes ✨
+title: Home ✨
 heroImage: https://vuejs.press/images/hero.png
 actions:
   - text: 🚀 Start Learning
