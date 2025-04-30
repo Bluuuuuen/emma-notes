@@ -1,5 +1,5 @@
 ---
-date: 2024-11-3
+date: 2024-11-03
 category:
   - 【Emma】英汉对译表
 tag:

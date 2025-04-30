@@ -9,6 +9,17 @@ export default defineUserConfig({
   title: 'Emma\'s English Notes',
   description: '我的英语自留地',
 
+  head: [
+    ['script', { async: true, src: 'https://www.googletagmanager.com/gtag/js?id=G-JCQ3D0V7TH' }],
+    ['script', {}, `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-JCQ3D0V7TH');
+    `],
+    ['link', { rel: 'icon', href: '/emma-notes/favicon.ico' }]
+  ],
+  
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
 
@@ -46,6 +57,7 @@ export default defineUserConfig({
         date: frontmatter.date || null,
         category: frontmatter.category || [],
         tag: frontmatter.tag || [],
+        cover: frontmatter.cover || [], // added to access posters
         excerpt:
           // Support manually set excerpt through frontmatter
           typeof frontmatter.excerpt === 'string'
