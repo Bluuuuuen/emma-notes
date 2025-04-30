@@ -6,20 +6,18 @@ title: About Emma ✨
 
 Hi, I'm **Emma**! 👩‍🏫
 
-我热爱英语，也热爱记录。  
-在学习、教学和生活中，我常常会积累一些有趣又实用的英语内容。  
-于是，我搭建了这个小站，希望把我的笔记分享给更多和我一样热爱学习的人。🌟
+An English junior who loves sharing!
 
-在这里，你会发现：
+在这里你也许会不经意捡到我搬砖时掉落的碎片，包括但不限于：
 
-- 📚 日常积累的单词与表达
-- ✍️ 写作中常用的小技巧
-- 📖 阅读时的精彩摘录与感悟
-- 🔍 语法细节的深入拆解
+- 😩 学术老学究的八股（考试考证的攻略和模板）
+- 🥳 下饭电子榨菜代言（外语剧和电影推荐）
+- 🥸 茶余饭后的碎碎念（没事儿瞎捉摸的英汉翻译）
+- 🤭 可爱的解压小游戏（🧂量体裁衣制作的专属版）
 
-希望这里能成为你学习路上的小伙伴！🤝  
-也欢迎你时常来看看，一起 make progress, day by day. ✨
-联系 Emma: 2302686447@qq.com
+Add this website to your bookmark bar if you like!  
+I will continue to update till the end of the world...
+Contact Emma: 2302686447@qq.com
 
 ---
 
