@@ -2,7 +2,6 @@ import { blogPlugin } from '@vuepress/plugin-blog'
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
-import localGA from './local-ga-plugin'
 
 export default defineUserConfig({
   lang: 'en-US',
@@ -10,6 +9,16 @@ export default defineUserConfig({
   title: 'Emma\'s English Notes',
   description: '我的英语自留地',
 
+  head: [
+    ['script', { async: true, src: 'https://www.googletagmanager.com/gtag/js?id=G-JCQ3D0V7TH' }],
+    ['script', {}, `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-JCQ3D0V7TH');
+    `]
+  ],
+  
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
 
@@ -136,9 +145,6 @@ export default defineUserConfig({
         },
       ],
       hotReload: true,
-    }),
-    localGA({
-      id: 'G-JCQ3D0V7TH'
     }),
   ],
 
