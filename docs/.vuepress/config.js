@@ -16,7 +16,8 @@ export default defineUserConfig({
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'G-JCQ3D0V7TH');
-    `]
+    `],
+    ['link', { rel: 'icon', href: '/emma-notes/favicon.ico' }]
   ],
   
   theme: defaultTheme({
